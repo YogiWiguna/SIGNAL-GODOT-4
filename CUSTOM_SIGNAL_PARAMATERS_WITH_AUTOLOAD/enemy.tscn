@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://b24bfjyoq15kc"]
+
+[ext_resource type="Script" path="res://CUSTOM_SIGNAL_PARAMATERS_WITH_AUTOLOAD/enemy.gd" id="1_dofub"]
+[ext_resource type="Texture2D" uid="uid://7g88ygeo6ctq" path="res://icon.svg" id="2_fw10r"]
+
+[node name="enemy" type="CharacterBody2D"]
+script = ExtResource("1_dofub")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("2_fw10r")

@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://boevsp1wej658"]
+
+[ext_resource type="Script" path="res://CUSTOM_SIGNAL_PARAMATERS_WITH_AUTOLOAD/player.gd" id="1_07xek"]
+[ext_resource type="Texture2D" uid="uid://7g88ygeo6ctq" path="res://icon.svg" id="2_6xvum"]
+
+[node name="player" type="CharacterBody2D"]
+script = ExtResource("1_07xek")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("2_6xvum")

@@ -1,0 +1,17 @@
+[gd_scene load_steps=4 format=3 uid="uid://01wteffjb0dm"]
+
+[ext_resource type="Script" path="res://CUSTOM_SIGNAL_PARAMATERS_WITH_AUTOLOAD/world.gd" id="1_f34lt"]
+[ext_resource type="PackedScene" uid="uid://b24bfjyoq15kc" path="res://CUSTOM_SIGNAL_PARAMATERS_WITH_AUTOLOAD/enemy.tscn" id="2_7spix"]
+[ext_resource type="PackedScene" uid="uid://boevsp1wej658" path="res://CUSTOM_SIGNAL_PARAMATERS_WITH_AUTOLOAD/player.tscn" id="3_wnefc"]
+
+[node name="world" type="Node2D"]
+script = ExtResource("1_f34lt")
+
+[node name="enemy" parent="." instance=ExtResource("2_7spix")]
+position = Vector2(1051, 142)
+
+[node name="enemy2" parent="." instance=ExtResource("2_7spix")]
+position = Vector2(1061, 299)
+
+[node name="player" parent="." instance=ExtResource("3_wnefc")]
+position = Vector2(109, 310)

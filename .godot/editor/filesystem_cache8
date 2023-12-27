@@ -1,0 +1,34 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1703652717
+icon.svg::CompressedTexture2D::2260493124932451574::1703644544::1703644555::1::::<><>::
+::res://CONNECTING_NODES_WITH_CODES/::1703651076
+enemy.gd::GDScript::-1::1703651076::0::1::::Enemy_CODES<>CharacterBody2D<>::
+enemy.tscn::PackedScene::1527610227825907104::1703650715::0::1::::<><>::res://CONNECTING_NODES_WITH_CODES/enemy.gd<>uid://7g88ygeo6ctq::::res://icon.svg
+world.gd::GDScript::-1::1703650713::0::1::::<>Node2D<>::
+world.tscn::PackedScene::8890701715310282099::1703650715::0::1::::<><>::res://CONNECTING_NODES_WITH_CODES/world.gd<>uid://v08rt7ux58q3::::res://CONNECTING_NODES_WITH_CODES/enemy.tscn
+::res://CONNECTION TWO NODES TO EACH OTHER VISUALLY/::1703650620
+enemy.gd::GDScript::-1::1703650620::0::1::::Enemy_VISUALLY<>CharacterBody2D<>::
+enemy.tscn::PackedScene::6211442284921074011::1703650241::0::1::::<><>::res://CONNECTION TWO NODES TO EACH OTHER VISUALLY/enemy.gd<>uid://7g88ygeo6ctq::::res://icon.svg
+world.gd::GDScript::-1::1703646369::0::1::::<>Node2D<>::
+world.tscn::PackedScene::7146670844060164415::1703649798::0::1::::<><>::res://CONNECTION TWO NODES TO EACH OTHER VISUALLY/world.gd<>uid://cuq4suirxeqkx::::res://CONNECTION TWO NODES TO EACH OTHER VISUALLY/enemy.tscn
+::res://CUSTOM SIGNAL/::1703652395
+enemy_custom.gd::GDScript::-1::1703652241::0::1::::ENEMY_CUSTOM<>CharacterBody2D<>::
+enemy_custom.tscn::PackedScene::4414134064103748396::1703652387::0::1::::<><>::res://CUSTOM SIGNAL/enemy_custom.gd<>uid://7g88ygeo6ctq::::res://icon.svg
+player.gd::GDScript::-1::1703652111::0::1::::Player_Custom<>CharacterBody2D<>::
+Player.tscn::PackedScene::4367754251988561800::1703652387::0::1::::<><>::res://CUSTOM SIGNAL/player.gd<>uid://7g88ygeo6ctq::::res://icon.svg
+world_custom.gd::GDScript::-1::1703652386::0::1::::<>Node2D<>::
+world_custom.tscn::PackedScene::4392154830098485651::1703652395::0::1::::<><>::res://CUSTOM SIGNAL/world_custom.gd<>uid://b35ie4pkb7xuy::::res://CUSTOM SIGNAL/enemy_custom.tscn<>uid://b3h1jlg00cla3::::res://CUSTOM SIGNAL/Player.tscn
+::res://CUSTOM_SIGNAL_PARAMATERS/::1703653625
+enemy.tscn::PackedScene::4341456573193991390::1703653605::0::1::::<><>::uid://7g88ygeo6ctq::::res://icon.svg<>res://CUSTOM_SIGNAL_PARAMATERS/enemy.gd
+player.tscn::PackedScene::3378630035800659681::1703653605::0::1::::<><>::res://CUSTOM_SIGNAL_PARAMATERS/player.gd<>uid://7g88ygeo6ctq::::res://icon.svg
+enemy.gd::GDScript::-1::1703653594::0::1::::ENEMY_CUSTOM_PARAMETER<>CharacterBody2D<>::
+player.gd::GDScript::-1::1703653299::0::1::::Player_Custom_Parameter<>CharacterBody2D<>::
+world.gd::GDScript::-1::1703653189::0::1::::<>Node2D<>::
+world.tscn::PackedScene::1809764834538114126::1703653625::0::1::::<><>::res://CUSTOM_SIGNAL_PARAMATERS/world.gd<>uid://b24bfjyoq15kc::::res://CUSTOM_SIGNAL_PARAMATERS/enemy.tscn<>uid://boevsp1wej658::::res://CUSTOM_SIGNAL_PARAMATERS/player.tscn
+::res://CUSTOM_SIGNAL_PARAMATERS_WITH_AUTOLOAD/::0
+enemy.tscn::PackedScene::4341456573193991390::1703654356::0::1::::<><>::res://CUSTOM_SIGNAL_PARAMATERS/enemy.gd<>uid://7g88ygeo6ctq::::res://icon.svg
+player.tscn::PackedScene::3378630035800659681::1703654357::0::1::::<><>::res://CUSTOM_SIGNAL_PARAMATERS/player.gd<>uid://7g88ygeo6ctq::::res://icon.svg
+world.tscn::PackedScene::1809764834538114126::1703654356::0::1::::<><>::res://CUSTOM_SIGNAL_PARAMATERS/world.gd<>uid://b24bfjyoq15kc::::res://CUSTOM_SIGNAL_PARAMATERS/enemy.tscn<>uid://boevsp1wej658::::res://CUSTOM_SIGNAL_PARAMATERS/player.tscn
+::res://SIMPLE BUTTON SIGNAL/::1703646309
+world.gd::GDScript::-1::1703645450::0::1::::<>Node2D<>::
+world.tscn::PackedScene::628916522411108779::1703646309::0::1::::<><>::res://SIMPLE BUTTON SIGNAL/world.gd<>uid://7g88ygeo6ctq::::res://icon.svg

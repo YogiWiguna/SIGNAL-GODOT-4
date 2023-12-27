@@ -1,0 +1,36 @@
+res://world.tscn
+res://world.gd
+res://SIMPLE BUTTON SIGNAL/world.tscn
+res://enemy.gd
+res://new folder/world.tscn
+res://new folder/enemy.tscn
+res://CONNECTION TWO NODES TO EACH OTHER VISUALLY/world.tscn
+res://CONNECTION TWO NODES TO EACH OTHER VISUALLY/enemy.tscn
+res://CONNECTING NODES WITH CODES/world.tscn
+res://CONNECTING NODES WITH CODES/enemy.tscn
+res://CONNECTING NODES WITH CODES/enemy.gd
+res://CONNECTING NODES WITH CODES/world.gd
+res://CONNECTING_NODES_WITH_CODES/enemy.tscn
+res://CONNECTING_NODES_WITH_CODES/world.tscn
+res://CONNECTING_NODES_WITH_CODES/world.gd
+res://CONNECTING_NODES_WITH_CODES/enemy.gd
+res://CONNECTION TWO NODES TO EACH OTHER VISUALLY/enemy.gd
+res://CUSTOM SIGNAL/enemy_custom.tscn
+res://CUSTOM SIGNAL/enemy_custom.gd
+res://CUSTOM SIGNAL/world_custom.gd
+res://CUSTOM SIGNAL/Player.tscn
+res://CUSTOM SIGNAL/player.gd
+res://CUSTOM SIGNAL/world_custom.tscn
+res://CUSTOM_SIGNAL_PARAMATERS/world.tscn
+res://CUSTOM_SIGNAL_PARAMATERS/enemy.tscn
+res://CUSTOM_SIGNAL_PARAMATERS/player.tscn
+res://CUSTOM_SIGNAL_PARAMATERS/enemy.gd
+res://CUSTOM_SIGNAL_PARAMATERS/player.gd
+res://CUSTOM_SIGNAL_PARAMATERS/world.gd
+res://CUSTOM_SIGNAL_PARAMATERS_WITH_AUTOLOAD/enemy.tscn
+res://CUSTOM_SIGNAL_PARAMATERS_WITH_AUTOLOAD/player.tscn
+res://CUSTOM_SIGNAL_PARAMATERS_WITH_AUTOLOAD/world.tscn
+res://CUSTOM_SIGNAL_PARAMATERS_WITH_AUTOLOAD/EventBus.gd
+res://CUSTOM_SIGNAL_PARAMATERS_WITH_AUTOLOAD/player.gd
+res://CUSTOM_SIGNAL_PARAMATERS_WITH_AUTOLOAD/world.gd
+res://CUSTOM_SIGNAL_PARAMATERS_WITH_AUTOLOAD/enemy.gd
